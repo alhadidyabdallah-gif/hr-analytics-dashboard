@@ -27,8 +27,6 @@ An end-to-end HR analytics project analyzing **500 employees** across 10 departm
 2. Increase training programs for low-performance departments
 3. Improve work environment in high-absence departments
 
-## 🚀 Dashboard Preview
-![Dashboard Overview](dashboard_overview.png)
 
 ## 👤 Author
 **Abdullah Alahidy**
