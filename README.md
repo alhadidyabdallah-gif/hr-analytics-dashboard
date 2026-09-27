@@ -33,4 +33,3 @@ An end-to-end HR analytics project analyzing **500 employees** across 10 departm
 ## 👤 Author
 **Abdullah Alahidy**
 - GitHub: [@alahidyabdallah-gif](https://github.com/alahidyabdallah-gif)
-- LinkedIn: *(will be added soon)*
